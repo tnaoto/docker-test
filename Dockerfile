@@ -1,4 +1,3 @@
-FROM ubuntu
+FROM centos
 
-RUN apt-get update
 
